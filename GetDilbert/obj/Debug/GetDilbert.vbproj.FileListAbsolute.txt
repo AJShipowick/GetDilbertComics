@@ -1,0 +1,9 @@
+D:\VisualStudioWorkspaces\GetDilbert\GetDilbert\bin\Debug\GetDilbert.exe.config
+D:\VisualStudioWorkspaces\GetDilbert\GetDilbert\bin\Debug\GetDilbert.exe
+D:\VisualStudioWorkspaces\GetDilbert\GetDilbert\bin\Debug\GetDilbert.pdb
+D:\VisualStudioWorkspaces\GetDilbert\GetDilbert\bin\Debug\GetDilbert.xml
+D:\VisualStudioWorkspaces\GetDilbert\GetDilbert\obj\Debug\ConsoleApplication1.Resources.resources
+D:\VisualStudioWorkspaces\GetDilbert\GetDilbert\obj\Debug\GetDilbert.vbproj.GenerateResource.Cache
+D:\VisualStudioWorkspaces\GetDilbert\GetDilbert\obj\Debug\GetDilbert.exe
+D:\VisualStudioWorkspaces\GetDilbert\GetDilbert\obj\Debug\GetDilbert.xml
+D:\VisualStudioWorkspaces\GetDilbert\GetDilbert\obj\Debug\GetDilbert.pdb
