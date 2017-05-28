@@ -7,3 +7,13 @@ D:\VisualStudioWorkspaces\GetDilbert\GetDilbert\obj\Debug\GetDilbert.vbproj.Gene
 D:\VisualStudioWorkspaces\GetDilbert\GetDilbert\obj\Debug\GetDilbert.exe
 D:\VisualStudioWorkspaces\GetDilbert\GetDilbert\obj\Debug\GetDilbert.xml
 D:\VisualStudioWorkspaces\GetDilbert\GetDilbert\obj\Debug\GetDilbert.pdb
+D:\VisualStudioWorkspaces\GetDilbert\GetDilbertComics\GetDilbert\bin\Debug\GetDilbert.exe.config
+D:\VisualStudioWorkspaces\GetDilbert\GetDilbertComics\GetDilbert\bin\Debug\GetDilbert.exe
+D:\VisualStudioWorkspaces\GetDilbert\GetDilbertComics\GetDilbert\bin\Debug\GetDilbert.pdb
+D:\VisualStudioWorkspaces\GetDilbert\GetDilbertComics\GetDilbert\bin\Debug\GetDilbert.xml
+D:\VisualStudioWorkspaces\GetDilbert\GetDilbertComics\GetDilbert\obj\Debug\GetDilbert.vbprojResolveAssemblyReference.cache
+D:\VisualStudioWorkspaces\GetDilbert\GetDilbertComics\GetDilbert\obj\Debug\ConsoleApplication1.Resources.resources
+D:\VisualStudioWorkspaces\GetDilbert\GetDilbertComics\GetDilbert\obj\Debug\GetDilbert.vbproj.GenerateResource.Cache
+D:\VisualStudioWorkspaces\GetDilbert\GetDilbertComics\GetDilbert\obj\Debug\GetDilbert.exe
+D:\VisualStudioWorkspaces\GetDilbert\GetDilbertComics\GetDilbert\obj\Debug\GetDilbert.xml
+D:\VisualStudioWorkspaces\GetDilbert\GetDilbertComics\GetDilbert\obj\Debug\GetDilbert.pdb
